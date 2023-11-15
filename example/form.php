@@ -11,6 +11,7 @@
                 password:<br>                
                 <input type="password" name="nafispassword" value=""><br>
                 <input type="submit" name="submit" value="login">
+                <a href="registration.php">Signup</a>
 
             </fieldset>
 
